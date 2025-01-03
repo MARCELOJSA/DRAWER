@@ -1,5 +1,5 @@
 🚀 PROJETO
-O Numbers é um aplicativo de sorteio de números, ele irá classificar os números de acordo com as informações descritas nos números de entrada.
+O drawer é um aplicativo de sorteio de números, ele irá classificar os números de acordo com as informações descritas nos números de entrada.
 
 📚 APRENDIZADO
 Neste projeto pude utilizar e aprender novas técnicas e novos códigos para trabalhar nos projetos, além de ampliar conhecimentos em métodos, eventos e variáveis.
